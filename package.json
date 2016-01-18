@@ -32,6 +32,7 @@
   },
   "optionalDependencies": {
     "hdt": "^1.1.0",
+    "hdt-metadata.js": "git+https://github.com/immortaleeb/hdt-metadata.js#master",
     "access-log": "^0.3.9"
   },
   "devDependencies": {
